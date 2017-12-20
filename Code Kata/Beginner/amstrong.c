@@ -18,9 +18,9 @@ while(temp2!=0)
 	temp2/=10;
 }
 if(sum==n)
-	printf("amstrong");
+	printf("armstrong");
 else
-	printf("not amstrong");
+	printf("not armstrong");
 return 0;
 }
 
